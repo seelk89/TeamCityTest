@@ -1,0 +1,14 @@
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.deps.json
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.runtimeconfig.json
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.runtimeconfig.dev.json
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.dll
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.pdb
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.csprojAssemblyReference.cache
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.AssemblyInfoInputs.cache
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.AssemblyInfo.cs
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.dll
+C:\Users\Jesper\Desktop\VisualStudioProjects\TeamCityTest\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.pdb
